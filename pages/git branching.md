@@ -1,0 +1,10 @@
+- the main branch is called main
+	- it used to be called master - a bit confusing
+- the unstable branch is called develop
+	- create the develop branch
+		- git branch develop
+- check which branches I have
+	- git branch
+- switch to develop branch
+	- git checkout develop
+-
